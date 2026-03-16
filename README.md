@@ -49,6 +49,16 @@ You can access the application here:
 
 Access to the application is protected by a password.
 
+# 🔐 Security
+
+Access to the REACTRACK application is protected by a password.
+The password is not publicly shared to maintain the confidentiality of the project.
+To obtain access credentials, please contact the developer: ulrichlokn@gmail.com
+Once logged in:
+User sessions are persistent, but the password field disappears after authentication.
+A logout option is available in the sidebar for security.
+All user data collected via the feedback form is stored locally and not exposed publicly.
+
 
 ## 📊 Screenshots
 
@@ -76,16 +86,6 @@ REACTRACK is part of a broader initiative to develop *data-driven tools for scie
 - laboratory organization
 - reagent resource management
 - decision-making through data analysis
-
-# 🔐 Security
-
-Access to the REACTRACK application is protected by a password.
-The password is not publicly shared to maintain the confidentiality of the project.
-To obtain access credentials, please contact the developer: ulrichlokn@gmail.com
-Once logged in:
-User sessions are persistent, but the password field disappears after authentication.
-A logout option is available in the sidebar for security.
-All user data collected via the feedback form is stored locally and not exposed publicly.
 
 
 # 👨‍🔬 Author
