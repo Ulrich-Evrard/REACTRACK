@@ -1,4 +1,4 @@
-# 🧪 REACTRACK
+# 🧪 REACTRACK  [Logo](reactrack_logo.png)
 
 *REACTRACK* is a web application built with *Streamlit* for intelligent management of laboratory reagents.
 
@@ -62,7 +62,6 @@ All user data collected via the feedback form is stored locally and not exposed 
 
 ## 📊 Screenshots
 
-[Logo](reactrack_logo.png)
 [Aceuil](Aceuil_reactrack.png)
 [Dashboard](Dashboard_reactrack.png)
 [Stocks](Gestion_stocks_reactrack.png)
